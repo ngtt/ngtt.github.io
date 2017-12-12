@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ngttのブログ</title>
+    <link>https://ngtt.github.io/post/</link>
+    <description>Recent content in Posts on ngttのブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 29 Nov 2017 16:04:39 +0900</lastBuildDate>
+    
+	<atom:link href="https://ngtt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2ndPage</title>
+      <link>https://ngtt.github.io/post/2ndpage/</link>
+      <pubDate>Wed, 29 Nov 2017 16:04:39 +0900</pubDate>
+      
+      <guid>https://ngtt.github.io/post/2ndpage/</guid>
+      <description> 2枚目の更新 </description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://ngtt.github.io/post/hello/</link>
+      <pubDate>Wed, 29 Nov 2017 15:37:36 +0900</pubDate>
+      
+      <guid>https://ngtt.github.io/post/hello/</guid>
+      <description> Hello World </description>
+    </item>
+    
+  </channel>
+</rss>
